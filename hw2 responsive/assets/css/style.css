@@ -6,6 +6,13 @@ body {
   background: url("../images/concrete_seamless.png");
 }
 
+
+/* Inside your Responsive-Portfolio folder, 
+find your styles.css file. You will write your media queries 
+at the bottom of styles.css.
+
+Use three @media screen tags, 
+each with one of these max-widths: 980px, 768px and 640px. */
 * {
   box-sizing: border-box;
 }
@@ -215,3 +222,23 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+/* this doesn't do anything I can observe yet, 
+looking at other examples for guidance, trying to make these
+ media tags  match the screenshots, how do i match my @media screen tags?*/
+/* @media only screen and (max-width: 980px) {
+  body {
+  
+  }
+
+@media only screen and (max-width: 768px) {
+  body {
+    
+    }
+
+@media only screen and (max-width: 640px) {
+  body {
+      
+      }
+}
+ */
