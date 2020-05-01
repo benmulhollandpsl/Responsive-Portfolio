@@ -9,8 +9,10 @@ liri, my 2nd group project and revised buttons.
 # Ben Mulholland Portfolio
 * thank you for taking the time to look at the readme for the 3rd version of my portfolio
 
+  https://benmulhollandpsl.github.io/Responsive-Portfolio/
+
 ## notes
-* all content is the creation of myself with the exception of PokeWeatherApp and Pandemic Portal that were group projects.  
+* all content is the creation of myself with the exception of PokeWeatherApp and Pandemic Portal. These were group projects. 
 
 * a lot of searching went into finding a nice template, then I gave up on trying to use all of those and kept playing with Css.  my next iteration will have an interactive element using js somewhere on the contact page.
 
